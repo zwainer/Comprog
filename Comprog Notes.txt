@@ -33,3 +33,12 @@ cd <directory> - change directory to that place
 
 tree - Para makita yung sub directory ng subdirectory ...
 
+:copy command:
+
+copy *.*
+
+	so bali 
+		-->copy hello.text "C:\Users\Juan\Documents\Coding stuff\MsDOS"
+			Need yung quotation sa dir
+
+
