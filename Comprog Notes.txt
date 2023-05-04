@@ -1,0 +1,35 @@
+md - Make Directory
+	md a b c d 
+		=different folder named a,b,c,d
+
+	:to make a subdirectory with space:
+	
+	md "Hala pano to makisama"
+		= folder named Hala pano to makisama
+
+rd --> Remove Directory : need sa loob ng directory na tatangalin
+	
+	note need empty yung dir na buburahin
+
+rd a b c d 
+		=remove different folder named a,b,c,d
+
+	:to make a subdirectory with space:
+	
+	rd "Hala pano to makisama"
+
+		= remove folder named Hala pano to makisama	
+ 
+
+cls - clear
+
+dir - ls or list directory
+
+cd/ - go to root
+
+cd .. - move one up
+
+cd <directory> - change directory to that place
+
+tree - Para makita yung sub directory ng subdirectory ...
+
