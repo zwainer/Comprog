@@ -5,7 +5,6 @@
     font-family: 'Arial Narrow Bold';
     text-align: center ;
     padding: 0px;
-    margin: 0%;
 
 }
 
@@ -64,14 +63,10 @@ h2{
 
 }
 .phead{
-    padding: 0%;
-    margin: 0%;
+    padding: ;
     color: rgb(205, 205, 205);
-    font-size: 17px;
 }
 
 .header{
-    padding: 0%;
-    margin: 0%;
     background-color: black;
 }
