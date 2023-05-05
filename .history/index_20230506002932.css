@@ -1,0 +1,28 @@
+.mainHead{
+    background-color: black;
+    font-size: 40px;
+    font-family: 'Arial Narrow Bold';
+    text-align: center ;
+    padding: 14px;
+
+}
+
+
+.makeDir{
+
+    background-color: rgb(221, 221, 221) ;
+    padding: 0%;
+    margin: 0%;
+}
+
+    
+
+.StartCommand{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+}
+
+.importantNote{
+    font-style: italic;
+}

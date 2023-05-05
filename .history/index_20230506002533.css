@@ -1,0 +1,14 @@
+.makeDir{
+    
+}
+    
+
+.StartCommand{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+}
+
+.importantNote{
+    font-style: italic !important;
+}

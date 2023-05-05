@@ -10,7 +10,7 @@
 
 body{
     text-align: center ;
-    
+    fo;
 }
 .makeDir{
 
@@ -46,17 +46,4 @@ body{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
-
-p{
-    font-size: 30px;
-}
-
-h2{
-    font-size: 50px;
-}
-    /* ito yung para sa mga unordered list ko hart hart */
-.ulstyles{
-    font-size: 30px;
-
 }
