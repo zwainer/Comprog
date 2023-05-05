@@ -1,5 +1,9 @@
-
+body{
     
+    align-content: center;
+    align-self: center !important;
+    ali
+}
 
 .StartCommand{
     font-size: 30px;
